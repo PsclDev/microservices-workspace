@@ -1,0 +1,9 @@
+GET http://localhost:3010/without-files
+
+###
+
+GET http://localhost:3010/with-files
+
+###
+
+POST http://localhost:3010/
